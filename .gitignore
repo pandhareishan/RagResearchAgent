@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+.env.local
+.envrc
+.DS_Store
+data/index/*
+*.png
+.notebooks/
+.ipynb_checkpoints/
+dist/
+build/
+site/
